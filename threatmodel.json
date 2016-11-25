@@ -1,0 +1,56 @@
+[
+    {
+        "name": "6.C.13 Encryption key is lost",
+        "probability": 0.5,
+        "damage": 0.5,
+        "node": "ref"
+    },
+    {
+        "name": "6.C.18 Network outage",
+        "probability": 0.5,
+        "damage": 0.5,
+        "node": "ref"
+    },
+    {
+        "name": "6.C.20 Modify network traffic",
+        "probability": 0.5,
+        "damage": 0.5,
+        "node": "ref"
+    },
+    {
+        "name": "6.C.23 Backup is lost or stolen",
+        "probability": 0.5,
+        "damage": 0.5,
+        "node": "ref"
+    },
+    {
+        "name": "6.C.24 Unauthorized access",
+        "probability": 0.5,
+        "damage": 0.5,
+        "node": "ref"
+    },
+    {
+        "name": "6.D.1 DoS attack",
+        "probability": 0.5,
+        "damage": 0.5,
+        "node": "ref"
+    },
+    {
+        "name": "7.C.1 Malicious internal staff",
+        "probability": 0.5,
+        "damage": 0.5,
+        "node": "ref"
+    },
+    {
+        "name": "8.D.1 Physical attack",
+        "probability": 0.5,
+        "damage": 0.5,
+        "node": "ref"
+    },
+    {
+        "name": "8.D.3 Equipment is stolen",
+        "probability": 0.5,
+        "damage": 0.5,
+        "node": "ref"
+    }
+]
